@@ -5,7 +5,7 @@
 Avaliar habilidades básicas de:
 
 - Consumo de API REST
-- Manipulação de dados e estado (React)
+- Manipulação de dados e estado
 - Estilização com Tailwind CSS (ou CSS puro)
 - Organização de componentes
 - Lógica básica de front-end
@@ -27,8 +27,8 @@ Desenvolver uma aplicação web que exiba uma lista de produtos, permitindo:
 
 ## Tecnologias Sugeridas
 
-- **Front-end:** React (Next.js opcional)
-- **Estilo:** Tailwind CSS (ou CSS básico)
+- **Front-end:** Next.js (React opcional)
+- **Estilo:** Tailwind CSS
 - **API:** [Fake Store API](https://fakestoreapi.com/products)
 
 ---
@@ -48,7 +48,7 @@ Desenvolver uma aplicação web que exiba uma lista de produtos, permitindo:
 - Exibir lista do carrinho com botão "Remover"
 
 ### 4. Layout Responsivo
-- Utilizar Tailwind CSS ou CSS básico para estilização
+- Utilizar Tailwind CSS
 
 ---
 
