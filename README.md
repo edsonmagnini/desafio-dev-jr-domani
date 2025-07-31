@@ -78,5 +78,5 @@ Desenvolver uma aplicação web que exiba uma lista de produtos, permitindo:
 
 ## Entrega
 
-O candidato deve disponibilizar o projeto em um repositório público no GitHub e enviar o link.
+O candidato deve disponibilizar o projeto em um repositório público no GitHub e enviar o link via e-mail para: edson.magnini@domani.global
 
